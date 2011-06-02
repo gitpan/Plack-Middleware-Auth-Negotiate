@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Plack-Middleware-Auth-Negotiate
-version:            0.01
+version:            0.02
 abstract:           Negotiate authentication middleware (SPNEGO)
 author:
     - Adrian Kreher <avuserow@cpan.org>
